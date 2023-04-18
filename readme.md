@@ -1,6 +1,6 @@
 ## calendar Event App
 
-This app will save your calendar event in your native iOS and android calendar.
+This app will save your calendar event in your native android calendar.
 
 - build using [expo](https://expo.io).
 
